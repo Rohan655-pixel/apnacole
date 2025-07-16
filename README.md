@@ -1,3 +1,3 @@
 # apnacole
-this is my first trial
-ROHAN SHARMA
+this is my first trial.
+DIRECTOR - ROHAN SHARMA
